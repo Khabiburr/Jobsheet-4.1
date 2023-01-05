@@ -82,3 +82,7 @@ CAYENNE_IN(3)
 ```
 
 ## Hasil
+https://github.com/Khabiburr/Jobsheet-4.1/blob/main/20221228_124610.jpg
+https://github.com/Khabiburr/Jobsheet-4.1/blob/main/Screenshot%20(38).png
+https://github.com/Khabiburr/Jobsheet-4.1/blob/main/Screenshot%20(40).png
+https://github.com/Khabiburr/Jobsheet-4.1/blob/main/Screenshot%20(41).png
